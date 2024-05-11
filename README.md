@@ -35,7 +35,7 @@
 
 ## 👨‍🏫 Showcase
 
-You can visit the website at [https://f1scoreboard.com/](https://f1scoreboard.com/)
+You can visit the website at [https://f1scoreboard.com/]([https://f1scoreboard.com/](https://f1-race-tracker.vercel.app/))
 
 ### Races' Information
 
