@@ -13,7 +13,6 @@
     F1Scoreboard is a React-based website that provides live F1 racing data and updates, including driver and team rankings, sourced from multiple external data sources.
     <br />
     <br />
-    <a href="[https://f1scoreboard.com/](https://f1-race-tracker.vercel.app/)">f1scoreboard.com</a>
   </p>
 </div>
 
@@ -35,7 +34,7 @@
 
 ## 👨‍🏫 Showcase
 
-You can visit the website at [https://f1scoreboard.com/]([https://f1scoreboard.com/](https://f1-race-tracker.vercel.app/))
+You can visit the website at [[https://f1scoreboard.com/](https://f1-race-tracker.vercel.app/)]([https://f1scoreboard.com/](https://f1-race-tracker.vercel.app/))
 
 ### Races' Information
 
